@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zipkintest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zipkintest.war">
+      <element id="artifact" artifact-name="zipkintest:war exploded" />
+    </root>
+  </artifact>
+</component>
